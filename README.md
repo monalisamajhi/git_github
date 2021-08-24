@@ -1,2 +1,3 @@
 # git_github
-this is for study purpose
+this is for study purpose.
+
